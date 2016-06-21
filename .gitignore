@@ -31,3 +31,4 @@ TestResult.xml
 _NCrunch_*/
 *.ldf
 *.mdf
+Source/packages/
