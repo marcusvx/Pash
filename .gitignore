@@ -32,3 +32,4 @@ _NCrunch_*/
 *.ldf
 *.mdf
 Source/packages/
+coverage.xml
